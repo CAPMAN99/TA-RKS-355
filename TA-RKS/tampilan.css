@@ -1,0 +1,79 @@
+body{
+	margin: 0 auto;
+}
+.header{
+	background: white;
+}
+.header-col{
+	width: 150px;
+}
+.header-img{
+	width: 100%;
+}
+.login a{
+	font-size: 25px;
+}
+.login-s{
+	width: 50%;
+	background: white;
+	border-radius: 10px;
+	margin: 5% 25%;
+	padding: 50px;
+}
+.login-s h1{
+	border-bottom: 5px solid black;
+}
+.login-form{
+	width: 300px;
+	margin: 20px auto;
+}
+.login-dw{
+	margin: 40px;
+}
+.login-dw a :hover{
+	color: black;
+}
+.pilihan{
+	margin: auto;
+	padding: 65px;
+	width: 400px;
+	height: 200px;
+	background: grey;
+}
+.pilihan h5 b a{
+	color: white;
+}
+.pilihan h5 :hover{
+	color: white;
+}
+.pendaftaran-form{
+	margin: 20px auto;
+}
+.pedaftaran-formsukses{
+	margin: 100px;
+}
+.body{
+	margin-top: 200px;
+	margin-bottom: 50px;
+}
+.card{
+	border-radius: 30px;
+}
+.body-img{
+	width: 150px;
+	margin: 10px auto;
+}
+.berita{
+	border: 10px;
+}
+.footer{
+	padding: 50px;
+	color: white;
+}
+.footer-col{
+}
+.footer-title{
+	text-align: center;
+	background: rgba(255,255,255,0.2);
+	padding: 10px;
+}
